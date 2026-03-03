@@ -1,0 +1,12 @@
+/* element selector */
+/* referensi web colorhunt.co */
+body {
+    background-color: rgb(96, 96, 107);
+    color: white;
+    font-family: times new roman;
+}
+.txt-center { text-align: center;}
+.bg-warning { background-color: rgb(0, 0, 0); border-radius: 20px 0px 20px 0px;}
+.txt-white { color: white;}
+.p-1 { padding: 50px;} /* memberi jarak sisi dalam border */
+.m-1 { margin: 20px;} /* memberi jarak sisi luar border */
